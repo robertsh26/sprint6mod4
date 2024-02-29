@@ -28,7 +28,7 @@ function App() {
           "media_type": "image",
           "service_version": "v1",
           "title": "A Phoenix Aurora over Iceland",
-          "url": "https://apod.nasa.gov/apod/image/2402/PhoenixAurora_Helgason_960.jpg"
+          "url": "https://apod.nasa.gov/apod/image/2402/PhoenixAurora_Helgason_960.jpg",
 
   })
   }, [])
